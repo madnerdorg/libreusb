@@ -1,0 +1,6 @@
+desktop.ini
+ngrok.exe
+dist/
+build/
+.vscode/
+*.pyc
